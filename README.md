@@ -84,6 +84,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### ORM
 #### Technology Integrations
 
+### Additional Drivers
+
+- [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+- [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
+- [Clojure](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
+- [Dart](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
+- [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
+- [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB. 
+- [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell.
+- [Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Suppported by RethinkDB.
+- [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp.
+- [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua.
+- [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C. 
+- [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
+- [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
+- [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
+
 ## Tools
 ### Administration
 
