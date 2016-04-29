@@ -18,24 +18,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Tutorials](#tutorials)
   - [More](#more)
  - [Libraries](#libraries)
-  - [C](#c)
-  - [C++](#c-1)
-  - [C#/.NET](#cnet)
-  - [Delphi](#delphi)
-  - [Erlang](#erlang)
-  - [Go](#go)
-  - [Haskell](#haskell)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Lisp](#lisp)
-  - [Mathematica](#mathematica)
-  - [Perl](#perl)
-  - [PHP](#php)
+  - [NodeJS](#nodejs)
   - [Python](#python)
   - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
  - [Tools](#tools)
   - [Administration](#administration)
   - [Big Data](#big-data)
@@ -60,39 +45,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 
 ## Libraries
-### C
-
-### C++
- 
-### C#/.NET ###
-
-### Delphi
-
-### Erlang
-
-### Go
-
-### Haskell
-
-### Java
-
-### JavaScript
-
-### Lisp
-
-### Mathematica
-
-### Perl
-
-### PHP
+### NodeJS
 
 ### Python
 
 ### Ruby
-
-### Rust
-
-### Scala
 
 
 ## Tools
