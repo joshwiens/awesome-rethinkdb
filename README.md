@@ -13,14 +13,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## Table of Contents
  - [Resources](#resources)
   - [Documentation](#documentation)
-  - [Articles](#articles)
-  - [Talks](#talks)
-  - [Tutorials](#tutorials)
   - [Community](#community)
  - [Libraries](#libraries)
   - [NodeJS](#nodejs)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Java](#java)
+  - [Additional Language Drivers](#additional-drivers)
+ - [Research and Training](#research-and-training)
+  - [Articles](#articles)
+  - [Talks](#talks)
+  - [Tutorials](#tutorials)
+  - [Examples](#examples)
  - [Tools](#tools)
   - [Administration](#administration)
   - [Big Data](#big-data)
@@ -32,17 +36,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Monitoring](#monitoring)
  - [Applications](#applications)
 
-## Resources
+## RethinkDB Ecosystem
 ### Documentation
 
 - [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
 - [ReQL API](http://rethinkdb.com/api/javascript/) - JavaScript ReQL command reference
-
-### Articles
-
-### Talks
-
-### Tutorials
 
 ### Community
 
@@ -54,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### NodeJS
 #### Drivers
 
-- [RethinkDB](https://github.com/rethinkdb/rethinkdb) - Standard RethinkDB NodeJS Driver.
+- [RethinkDB](https://github.com/rethinkdb/rethinkdb) - Officially Suppported by RethinkDB.
 - [RethingDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
 
 #### ORM
@@ -84,6 +82,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### ORM
 #### Technology Integrations
 
+### Java
+#### Drivers
+
+- [Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Suppported by RethinkDB.
+
+#### ORM
+#### Technology Integrations
+
 ### Additional Drivers
 
 - [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
@@ -93,13 +99,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Elixir](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
 - [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB. 
 - [Haskell](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell.
-- [Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Suppported by RethinkDB.
 - [Lisp](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp.
 - [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua.
 - [Objective-C](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C. 
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
 - [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
+
+## Research And Training
+### Articles
+
+### Talks
+
+### Tutorials
+
+### Examples
 
 ## Tools
 ### Administration
