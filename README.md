@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Articles](#articles)
   - [Talks](#talks)
   - [Tutorials](#tutorials)
-  - [More](#more)
+  - [Community](#community)
  - [Libraries](#libraries)
   - [NodeJS](#nodejs)
   - [Python](#python)
@@ -35,22 +35,54 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ## Resources
 ### Documentation
 
+- [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
+- [ReQL API](http://rethinkdb.com/api/javascript/) - JavaScript ReQL command reference
+
 ### Articles
 
 ### Talks
 
 ### Tutorials
 
-### More
+### Community
+
+- [Request Slack Invite](http://slack.rethinkdb.com/)
+- [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
 
 
 ## Libraries
 ### NodeJS
+#### Drivers
+
+- [RethinkDB](https://github.com/rethinkdb/rethinkdb) - Standard RethinkDB NodeJS Driver.
+- [RethingDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
+
+#### ORM
+
+- [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
+- [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM.
+
+#### Extension Libraries
+
+- [RethinkDB Pool](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB.
+- [Express Session RethinkDB](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x.
+
+#### Technology Integrations
+
+- [Hapi RethinkDB CRUD](https://github.com/athlite/hapi-rethinkdb-crud) - CRUD handlers for Hapi interaction with Rethinkdb
+- [Sails Hook Thinky](https://github.com/mwielbut/sails-hook-thinky) - A hook to enable the Thinky ORM for RethinkDB in Sails.
+- [KOA RethinkDB](https://github.com/hden/koa-rethinkdb) - Koa middleware that gets you a RethinkDB client.
+- [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - Integrating RethinkDB with RabbitMQ
 
 ### Python
+#### Drivers
+#### ORM
+#### Technology Integrations
 
 ### Ruby
-
+#### Drivers
+#### ORM
+#### Technology Integrations
 
 ## Tools
 ### Administration
