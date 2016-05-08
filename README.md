@@ -32,7 +32,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Monitoring](#monitoring)
  - [Applications](#applications)
 
-> RethinkDB Ecosystem
+> <h2>RethinkDB Ecosystem</h2>
+
 ### Documentation
 
 - [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
@@ -140,7 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-> Research And Training
+> <h2>Research And Training</h2>
 ### Articles
 
 ### Talks
