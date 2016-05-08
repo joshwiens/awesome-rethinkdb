@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Monitoring](#monitoring)
  - [Applications](#applications)
 
-> <h2>RethinkDB Ecosystem</h2>
+> <h3>RethinkDB Ecosystem</h3>
 
 ### Documentation
 
@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [RethinkDB Blog](https://www.rethinkdb.com/blog/)
 
 
-> Libraries
+> <h3>Libraries</h3>
 ### JavaScript
 #### Drivers
 
