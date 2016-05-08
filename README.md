@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 
 > <h3>Libraries</h3>
+
 ### JavaScript
 #### Drivers
 
@@ -141,7 +142,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-> <h2>Research And Training</h2>
+> <h3>>Research And Training</h3>
+
 ### Articles
 
 ### Talks
@@ -150,7 +152,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Examples
 
-> Tools
+> <h3>Tools</h3>
+
 ### Administration
 
 ### Big Data
@@ -159,7 +162,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Monitoring
 
-> Applications
+> <h3>Applications</h3>
 
-> License
+> <h3>License</h3>
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
