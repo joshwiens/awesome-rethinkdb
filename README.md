@@ -14,12 +14,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Resources](#resources)
   - [Documentation](#documentation)
   - [Community](#community)
- - [Libraries](#libraries)
-  - [JavaScript](#javascript)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Java](#java)
-  - [Additional Language Drivers](#additional-drivers)
+ - [JavaScript](#javascript-libraries)
+ - [Python](#python-libraries)
+ - [Ruby](#ruby-libraries)
+ - [Java](#java-libraries)
+ - [Additional Languages](#additional-languages)
+  - [Community Supported](#community-supported-drivers)
  - [Research and Training](#research-and-training)
   - [Articles](#articles)
   - [Talks](#talks)
@@ -47,9 +47,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [RethinkDB Blog](https://www.rethinkdb.com/blog/)
 
 <br>
-> <h3>Libraries</h3>
+> <h3>JavaScript Libraries</h3>
 
-#### JavaScript
 ##### Drivers
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
@@ -84,7 +83,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-#### Python
+<br>
+> <h3>Python Libraries</h3>
+
 ##### Drivers
 
 - [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported JavaScript Driver.
@@ -106,8 +107,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-#### Ruby
+<br>
+> <h3>Ruby Libraries</h3>
+
 ##### Drivers
+
+- [RethinkDB Ruby](http://rethinkdb.com/docs/install-drivers/ruby/) - Officially Supported Ruby Driver.
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 
 ##### ORM
 
@@ -115,17 +121,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-#### Java
+<br>
+> <h3>Java Libraries</h3>
+
 ##### Drivers
 
-- [Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Suppported by RethinkDB.
+- [RethinkDB Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Supported Java Driver.
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
+
 
 ##### ORM
 ##### Technology Integrations
 
 **[Back to top](#table-of-contents)**
 
-#### Additional Drivers
+<br>
+> <h3>Additional Languages</h3>
+
+#### Community Supported Drivers
 
 - [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
