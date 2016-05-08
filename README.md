@@ -10,7 +10,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
-## Table of Contents
+### Table of Contents
  - [Resources](#resources)
   - [Documentation](#documentation)
   - [Community](#community)
@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Monitoring](#monitoring)
  - [Applications](#applications)
 
+<br>
 > <h3>RethinkDB Ecosystem</h3>
 
 #### Documentation
@@ -45,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
 - [RethinkDB Blog](https://www.rethinkdb.com/blog/)
 
-
+<br>
 > <h3>Libraries</h3>
 
 #### JavaScript
@@ -142,6 +143,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
+<br>
 > <h3>>Research And Training</h3>
 
 #### Articles
@@ -152,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Examples
 
+<br>
 > <h3>Tools</h3>
 
 #### Administration
@@ -162,8 +165,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Monitoring
 
+<br>
 > <h3>Applications</h3>
 
+<br>
 > <h3>License</h3>
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
