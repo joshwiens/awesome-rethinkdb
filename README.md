@@ -59,8 +59,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### ORM
 
 - [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
+<br>
 Maintained By: `@neumino`
- <br>
+<br>
  <span style="display:inline-block; vertical-align: middle;">
     <span style="height:24px; vertical-align: bottom;">[![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/24/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/24/twitter.png)](https://twitter.com/neumino)</span>
 </span>
