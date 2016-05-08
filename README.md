@@ -34,12 +34,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 > <h3>RethinkDB Ecosystem</h3>
 
-### Documentation
+#### Documentation
 
 - [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
 - [ReQL API](http://rethinkdb.com/api/javascript/) - JavaScript ReQL command reference
 
-### Community
+#### Community
 
 - [Request Slack Invite](http://slack.rethinkdb.com/)
 - [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
@@ -48,29 +48,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 > <h3>Libraries</h3>
 
-### JavaScript
-#### Drivers
+#### JavaScript
+##### Drivers
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 - [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 
-#### ORM
+##### ORM
 
 - [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM.
  - Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
 
-#### Extension Libraries
+##### Extension Libraries
 
 - [RethinkDB Pool](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB.
  - Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden) 
 - [Express Session RethinkDB](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x.
  - Maintainer: `@armenfilipetyan`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/armenfilipetyan) 
  
-#### Technology Integrations
+##### Technology Integrations
 
 - [Hapi RethinkDB CRUD](https://github.com/athlite/hapi-rethinkdb-crud) - CRUD handlers for Hapi interaction with Rethinkdb.
  - Maintainer: `Thomas Eng`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/athlite) 
@@ -83,20 +83,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-### Python
-#### Drivers
+#### Python
+##### Drivers
 
 - [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 
-#### ORM
+##### ORM
 
 - [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
 - [Rethink](https://github.com/caoimhghin/rethink) - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
  - Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
 
-#### Technology Integrations
+##### Technology Integrations
 
 - [flask-rethinkdb](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
  - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
@@ -105,26 +105,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-### Ruby
-#### Drivers
+#### Ruby
+##### Drivers
 
-#### ORM
+##### ORM
 
-#### Technology Integrations
+##### Technology Integrations
 
 **[Back to top](#table-of-contents)**
 
-### Java
-#### Drivers
+#### Java
+##### Drivers
 
 - [Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Suppported by RethinkDB.
 
-#### ORM
-#### Technology Integrations
+##### ORM
+##### Technology Integrations
 
 **[Back to top](#table-of-contents)**
 
-### Additional Drivers
+#### Additional Drivers
 
 - [C#](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
@@ -144,23 +144,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 > <h3>>Research And Training</h3>
 
-### Articles
+#### Articles
 
-### Talks
+#### Talks
 
-### Tutorials
+#### Tutorials
 
-### Examples
+#### Examples
 
 > <h3>Tools</h3>
 
-### Administration
+#### Administration
 
-### Big Data
+#### Big Data
 
-### Deployment
+#### Deployment
 
-### Monitoring
+#### Monitoring
 
 > <h3>Applications</h3>
 
