@@ -15,7 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Documentation](#documentation)
   - [Community](#community)
  - [Libraries](#libraries)
-  - [NodeJS](#nodejs)
+  - [JavaScript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Java](#java)
@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 
 ## Libraries
-### NodeJS
+### JavaScript
 #### Drivers
 
 - [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
@@ -78,7 +78,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/hden) 
 - [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
- 
+
+**[Back to top](#table-of-contents)**
+
 ### Python
 #### Drivers
 
@@ -99,12 +101,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
+**[Back to top](#table-of-contents)**
+
 ### Ruby
 #### Drivers
 
 #### ORM
 
 #### Technology Integrations
+
+**[Back to top](#table-of-contents)**
 
 ### Java
 #### Drivers
@@ -113,6 +119,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### ORM
 #### Technology Integrations
+
+**[Back to top](#table-of-contents)**
 
 ### Additional Drivers
 
@@ -129,6 +137,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Perl](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
 - [PHP](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
 - [Scala](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
+
+**[Back to top](#table-of-contents)**
 
 ## Research And Training
 ### Articles
