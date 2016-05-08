@@ -144,7 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 **[Back to top](#table-of-contents)**
 
 <br>
-> <h3>>Research And Training</h3>
+> <h3> Research And Training</h3>
 
 #### Articles
 
