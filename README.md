@@ -1,5 +1,4 @@
 <h3 align="center">
-	<br>
 	<img width="120" src="https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/rethinkdb.jpg" alt="RethinkDB">
 	<br>
 </h3>
