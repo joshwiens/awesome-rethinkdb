@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Monitoring](#monitoring)
  - [Applications](#applications)
 
-## RethinkDB Ecosystem
+> RethinkDB Ecosystem
 ### Documentation
 
 - [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
@@ -45,7 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [RethinkDB Blog](https://www.rethinkdb.com/blog/)
 
 
-## Libraries
+> Libraries
 ### JavaScript
 #### Drivers
 
@@ -140,7 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 **[Back to top](#table-of-contents)**
 
-## Research And Training
+> Research And Training
 ### Articles
 
 ### Talks
@@ -149,7 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Examples
 
-## Tools
+> Tools
 ### Administration
 
 ### Big Data
@@ -158,7 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Monitoring
 
-## Applications
+> Applications
 
-## License
+> License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
