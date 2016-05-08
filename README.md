@@ -59,7 +59,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### ORM
 
 - [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
- - Maintained By: `@neumino` [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/logo_github_32.png)](https://github.com/neumino) [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/twitter_image_32.png)](https://twitter.com/neumino)
+ - Maintained By: `@neumino`
+ [![Github](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/logo_github_32.png)](https://github.com/neumino) 
+ [![Twitter](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/twitter_image_32.png)](https://twitter.com/neumino)
 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM.
 
