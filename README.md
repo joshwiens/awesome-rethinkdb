@@ -46,18 +46,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [Request Slack Invite](http://slack.rethinkdb.com/)
 - [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
+- [RethinkDB Blog](https://www.rethinkdb.com/blog/)
 
 
 ## Libraries
 ### NodeJS
 #### Drivers
 
-- [RethinkDB](https://github.com/rethinkdb/rethinkdb) - Officially Suppported by RethinkDB.
-- [RethingDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
+- [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported by RethinkDB.
+- [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
 
 #### ORM
 
 - [Thinky](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
+ - Maintained By: `@neumino` [GitHub](https://github.com/neumino) [Twitter](https://twitter.com/neumino)
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM.
 
 #### Extension Libraries
@@ -74,7 +76,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Python
 #### Drivers
+
+- [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported by RethinkDB.
+
 #### ORM
+
+- [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
+
 #### Technology Integrations
 
 ### Ruby
