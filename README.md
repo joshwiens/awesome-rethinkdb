@@ -28,10 +28,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Tools](#tools)
   - [Administration](#administration)
   - [Big Data](#big-data)
-  - [Clients](#clients)
-    - [GUI](#gui)
-    - [Shell](#shell)
-    - [Web](#web)
   - [Deployment](#deployment)
   - [Monitoring](#monitoring)
  - [Applications](#applications)
@@ -53,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### NodeJS
 #### Drivers
 
-- [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported by RethinkDB.
+- [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
  - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 - [RethinkDB Dash](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
  - Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
@@ -86,17 +82,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Python
 #### Drivers
 
-- [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported by RethinkDB.
+- [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported JavaScript Driver.
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 
 #### ORM
 
 - [Remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
+ - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
+- [Rethink](https://github.com/caoimhghin/rethink) - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
+ - Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
 
 #### Technology Integrations
 
+- [flask-rethinkdb](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
+ - Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
+- [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
+ - Maintainer: `RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)]( https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
+
 ### Ruby
 #### Drivers
+
 #### ORM
+
 #### Technology Integrations
 
 ### Java
@@ -136,14 +143,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Administration
 
 ### Big Data
-
-### Clients
-
-#### GUI
-
-#### Shell
-
-#### Web
 
 ### Deployment
 
