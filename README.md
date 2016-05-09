@@ -21,7 +21,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Research and Training](#research-and-training)
   - [Articles](#articles)
   - [Talks](#talks)
-  - [Tutorials](#tutorials)
   - [RethinkDB Examples](#rethinkdb-examples)
   - [Community Examples](#community-examples)
  - [Tools](#tools)
@@ -180,6 +179,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Articles
 
+- [Shahid Shaikh 08-Mar-16](https://codeforgeek.com/2016/03/building-real-time-polling-app-rethinkdb-nodejs/) - Building real time polling app using RethinkDB and Nodejs.
+- [Dr. Gleb Bahmutov PhD 08-Feb-16](https://glebbahmutov.com/blog/redux-and-rethinkdb/) - Redux and RethinkDB
 - [Scott Hasbrouck 13-Mar-16](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend) - Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack
 - [Khalid Abuhakmeh 15-Nov-15](http://www.khalidabuhakmeh.com/getting-started-with-rethinkdb-and-asp-net-5) - Getting Started With RethinkDB and ASP.NET 5.
 - [Slava Akhmechet 01-Sept-15](http://www.infoworld.com/article/2975838/database/build-real-time-web-apps-with-rethinkdb.html) - Build real-time Web apps with RethinkDB.
@@ -190,8 +191,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Gordon Dent 11-Mar-15](http://blog.workshape.io/we-use-rethinkdb-at-workshapeio/) - We use RethinkDB at Workshape.io.
 
 #### Talks
-
-#### Tutorials
 
 #### RethinkDB Examples
 
