@@ -24,8 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Tutorials](#tutorials)
   - [Examples](#examples)
  - [Tools](#tools)
-  - [Administration](#administration)
-  - [Big Data](#big-data)
+  - [Administration](#data-exploration)
   - [Deployment](#deployment)
   - [Monitoring](#monitoring)
  - [Applications](#applications)
@@ -186,12 +185,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Examples
 
+- [RethinkDB Chat](https://github.com/thejsj/rethinkdb-chat) - A simple chat applications built with RethinkDB + Sockets.
+- [RethinkDB Reactjs](https://github.com/arkency/rethinkdb-reactjs) - rethinkdb + react.js + ActionController::Live (Rails) + Server Side Events.
+- [Realtime Chat RethinkDB](https://github.com/Unrestricted-Coding/realtime-chat-RethinkDB) - A realtime chatroom built with RethinkDB
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 <br>
 > <h3>Tools</h3>
 
-#### Administration
+#### Data Exploration
 
-#### Big Data
+- [Chateau](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB.
 
 #### Deployment
 
