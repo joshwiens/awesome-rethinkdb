@@ -195,8 +195,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Talks
 
+- [Michael Glukhovsky at Clevertech 30-Mar-16](https://www.youtube.com/watch?v=28XKxLPv0Hs) - RethinkDB Presentation to Clevertech.
 - [Ryan Paul at ForwardJS 21-Jan-16](https://www.youtube.com/watch?v=xCU9RHDWXIY) - RethinkDB: Database for realtime apps.
-- [Rob Conery at DevDay 2015 17-Sept-15](https://www.youtube.com/watch?v=Ee1v_SuECRk) - Rethinking NoSQL Four and a Half Reasons Why RethinkDB Is Worth a Look
+- [Rob Conery at DevDay 2015 17-Sept-15](https://www.youtube.com/watch?v=Ee1v_SuECRk) - Rethinking NoSQL Four and a Half Reasons Why RethinkDB Is Worth a Look.
+- [Jorge Silva at RethingDB Meetup 29-June-15](https://www.youtube.com/watch?v=vJtDNRsUozk) - Data Modeling in RethinkDB.
+- [Ben Tranter 05-Apr-15](https://www.youtube.com/watch?v=d01rLeIjTLE) - A Simple REST API with Express, RethinkDB, and Thinky.
+ - [Associated Source](https://github.com/bentranter/ampersand-rethink-express)
+- [Ryan Paul at Mattermark 17-Feb-15](https://www.youtube.com/watch?v=dhb63boH8E8) - Build a realtime RethinkDB cluster monitoring app with live graphs.
+ - [Associated Blog Post](http://rethinkdb.com/blog/realtime-cluster-monitoring/) - A realtime RethinkDB cluster monitoring app with live graphs.
 
 #### RethinkDB Examples
 
