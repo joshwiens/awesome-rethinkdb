@@ -42,6 +42,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Request Slack Invite](http://slack.rethinkdb.com/)
 - [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
 - [RethinkDB Blog](https://www.rethinkdb.com/blog/)
+- [RethinkDB Google Group](https://groups.google.com/forum/#!forum/rethinkdb)
+- [RethinkDB YouTube Channel](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ)
+- [RethinkDB Reddit](https://www.reddit.com/r/rethinkdb/) 
 
 <br>
 > <h3>JavaScript Libraries</h3>
